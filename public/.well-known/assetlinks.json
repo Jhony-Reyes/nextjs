@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lirmiprofesor.app",
+      "sha256_cert_fingerprints":
+      ["EA:1F:75:06:0A:FB:87:B2:3D:27:2F:33:2B:31:F9:31:9A:A4:E4:BD:96:BB:25:AB:9A:34:C5:2B:4D:5"]
+    }
+  }]
+  
